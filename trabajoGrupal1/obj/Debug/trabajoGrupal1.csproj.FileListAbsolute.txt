@@ -1,0 +1,7 @@
+C:\Users\octir\Escritorio\repo visual studio\trabajoGrupal1\trabajoGrupal1\bin\Debug\trabajoGrupal1.exe.config
+C:\Users\octir\Escritorio\repo visual studio\trabajoGrupal1\trabajoGrupal1\bin\Debug\trabajoGrupal1.exe
+C:\Users\octir\Escritorio\repo visual studio\trabajoGrupal1\trabajoGrupal1\bin\Debug\trabajoGrupal1.pdb
+C:\Users\octir\Escritorio\repo visual studio\trabajoGrupal1\trabajoGrupal1\obj\Debug\trabajoGrupal1.csproj.AssemblyReference.cache
+C:\Users\octir\Escritorio\repo visual studio\trabajoGrupal1\trabajoGrupal1\obj\Debug\trabajoGrupal1.csproj.CoreCompileInputs.cache
+C:\Users\octir\Escritorio\repo visual studio\trabajoGrupal1\trabajoGrupal1\obj\Debug\trabajoGrupal1.exe
+C:\Users\octir\Escritorio\repo visual studio\trabajoGrupal1\trabajoGrupal1\obj\Debug\trabajoGrupal1.pdb
